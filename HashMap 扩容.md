@@ -6,7 +6,7 @@
 
 1. 查询时先根据hashcode找到某一位置，再根据对应位置的比较决定是否加入，相同元素的hashcode一定相同，但是不同的对象hashcode也可能相同。添加顺序如图所示
 
-![image-20200308162417466](img\image-20200308162417466.png)
+![image-20200308162417466](https://github.com/ARKbreeze/blog/blob/master/img/image-20200308162417466.png?raw=true)
 
 2.  为了增加整体的效率，我们当然希望所有的数组位下链表长度都是均匀分布的，正常想法当然是hashcode都与数组长度进行取模，将整体哈希进行分段。
 
