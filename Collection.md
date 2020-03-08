@@ -54,4 +54,4 @@
 
 # 偷群友的体系图
 
-![image-20200307224236989](img\image-20200307224236989.png)
+![image-20200307224236989](https://github.com/ARKbreeze/blog/blob/master/img/image-20200307224236989.png?raw=true)
